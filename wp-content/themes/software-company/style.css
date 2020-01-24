@@ -207,3 +207,4 @@ section.portfolio {margin: 0;padding: 90px 0;}
 @media only screen and (max-width: 767px) {.portfolio-holder .filter-grid .element-item {width: calc(33.333% - 30px);}}
 @media only screen and (max-width: 600px) {.portfolio-holder .filter-grid .element-item {width: calc(50% - 30px);}
 	.our-clients .widget .widget-title {grid-column: 1/span 1;}}
+span.by {display: none;}
