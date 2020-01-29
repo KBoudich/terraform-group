@@ -1392,5 +1392,19 @@
                 "userSettingsLabel": "ctrl+shift+i"
             }
         }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///root/Desktop/terraform-group",
+            "backupPath": "/root/Desktop/terraform-group/~/.vscode-root/Backups/c079325fa19218a055c8aae79cdfb79e",
+            "uiState": {
+                "mode": 0,
+                "x": 1366,
+                "y": 28,
+                "width": 1920,
+                "height": 1052
+            }
+        },
+        "openedWindows": []
     }
 }
